@@ -1,11 +1,48 @@
-# Sample Snack app
+# VóTec - Seu Assistente Digital para Idosos
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+VóTec é um aplicativo intuitivo e acessível desenvolvido para facilitar a vida dos idosos, oferecendo funcionalidades essenciais como chamadas rápidas, lembretes de medicamentos, segurança digital e muito mais.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## 📱 Funcionalidades Principais
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- **📞 Chamadas Rápidas** - Acesso fácil a contatos favoritos e botão de SOS.
+- **💊 Lembretes de Medicamentos** - Alertas para tomar remédios e ir a consultas.
+- **🚖 Chamar Transporte** - Facilidade para chamar um táxi ou Uber.
+- **📰 Notícias e Entretenimento** - Acesso a rádio, jornais e jogos simples.
+- **🎙 Assistente de Voz** - Leitura de mensagens e comandos de voz.
+- **👨‍👩‍👧‍👦 Grupo da Família** - Comunicação direta com familiares.
+- **🔒 Segurança Digital** - Alertas e dicas contra golpes online.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🛠 Tecnologias Utilizadas
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- **React Native**
+- **React Native Paper** (Componentes visuais)
+- **Expo Icons** (Ícones do Material e FontAwesome)
+
+## 📸 Capturas de Tela
+
+### Android
+![VóTec Android](android_screenshot.png)
+
+### iOS
+![VóTec iOS](ios_screenshot.png)
+
+## 🚀 Como Executar
+
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/gabsouza-dev/votec-app.git
+   ```
+2. Instale as dependências:
+   ```sh
+   npm install
+   ```
+3. Execute o app:
+   ```sh
+   expo start
+   ```
+
+## 📌 Contribuição
+Sinta-se à vontade para abrir issues e enviar pull requests para melhorar o VóTec!
+
+## 📄 Licença
+Este projeto está sob a licença MIT.
